@@ -1,5 +1,4 @@
 import pandas as pd
-import numpy as np
 
 # NFTs to raffle
 NFTS_COUNT = 10
