@@ -8,7 +8,7 @@ NFTS_COUNT = 10
 # i.e
 #   user,entries
 #   Cirro,1
-USERS = pd.read_csv('users.tsv', sep='\t')
+USERS = pd.read_csv('users-Q2.tsv', sep='\t')
 
 # Duplicate users based on tickets
 # i.e Cirro,2 =>
